@@ -1,0 +1,11 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+
+login-data.json
+
+.idea/
+.vscode/
+dist/
+package-lock.json
